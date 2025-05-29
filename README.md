@@ -77,6 +77,7 @@ plt.title("Customer Segments")
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/806ab140-517c-4c1d-b28d-89ce18eaf061)
 
 ### df.head() and df.isnull().sum()
 ![Screenshot 2025-05-22 132101](https://github.com/user-attachments/assets/64940bdf-4ac7-4529-a26e-38fe0027dc0b)
@@ -88,6 +89,7 @@ plt.title("Customer Segments")
 ![Screenshot 2025-05-22 132135](https://github.com/user-attachments/assets/15c0d8e4-75e0-451e-a9a3-df02f7f6d68a)
 ### y_pred
 ![Screenshot 2025-05-22 132151](https://github.com/user-attachments/assets/0f0bccb0-657e-4a37-8020-6e60f83333f5)
+![image](https://github.com/user-attachments/assets/de935098-febd-4642-8214-eb2076d4b47c)
 
 
 ## Result:
